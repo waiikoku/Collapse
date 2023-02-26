@@ -4,7 +4,13 @@
 # About Project
 - โปรเจคปี3 เทอม2
 - วิชาGame Design and Production
-- สมาชิกทีม 6 คน | Programmer 1 | Artist 3 | Story 1 | Level Design 1 |
+- สมาชิกทีม 6 คน
+| ตำแหน่ง | จำนวน |
+| ------ | ------ |
+| Artist | 3 |
+| Level Design | 1 |
+| Story | 1 |
+| Programmer | 1 |
 - เกมแนว TPS, Mission, Singleplayer บน Platform PC
 # Game Overview
 เรื่องราวเกี่ยวกับโลกที่ล่มสลายหลังสงคราม บ้านเมืองไร้กฎเกณฑ์ ป่าเถื่อน ผู้เล่นจะได้รับบทเป็นตัวเอกที่รับภารกิจจากกลุ่มของเขาเพื่อกำจัดศัตรูและเข้ายึดสถานที่นั้นๆเพื่อรวบรวมFacilityต่างๆในการฟื้นฟูอารยธรรม
@@ -17,12 +23,14 @@
 - Area Control
 - Timed Defense Mission
 # Controls
-- WASD | Movement |
-- Left Shift | Sprint |
-- LMB | Shoot, Use |
-- RMB | Aim |
-- R | Reload |
-- Alpha 1 2 3 | Change Equipment |
+| Button | รายละเอียด |
+| ------ | ------ |
+| WASD | Movement |
+| Left Shift | Sprint |
+| LMB | Shoot, Use Item |
+| RMB | Aim |
+| R | Reload |
+| Alpha 1 2 | Change Equipment |
 # Class Diagram [Class Designer Visual Studio]
 ![Y3_Collapse_Diagram1](https://user-images.githubusercontent.com/48912221/221401236-ae6d7349-d83b-411e-a2e6-b339eb73395f.png)
 ![Y3_Collapse_Diagram2](https://user-images.githubusercontent.com/48912221/221401237-ca84b1d1-140e-4054-b057-1159035f0f0a.png)
