@@ -1,8 +1,11 @@
 # Collapse
 ![Y3_Collapse-Banner](https://user-images.githubusercontent.com/48912221/221401008-a66e47fd-dc45-442d-a7a3-445631c3f829.png)
 # Unity Version 2021.3.11f1
-# โปรเจคปี3 เทอม2 วิชาGame Design and Production
-เกมแนว TPS, Mission, Singleplayer บน Platform PC
+# About Project
+- โปรเจคปี3 เทอม2
+- วิชาGame Design and Production
+- สมาชิกทีม 6 คน | Programmer 1 | Artist 3 | Story 1 | Level Design 1 |
+- เกมแนว TPS, Mission, Singleplayer บน Platform PC
 # Game Overview
 เรื่องราวเกี่ยวกับโลกที่ล่มสลายหลังสงคราม บ้านเมืองไร้กฎเกณฑ์ ป่าเถื่อน ผู้เล่นจะได้รับบทเป็นตัวเอกที่รับภารกิจจากกลุ่มของเขาเพื่อกำจัดศัตรูและเข้ายึดสถานที่นั้นๆเพื่อรวบรวมFacilityต่างๆในการฟื้นฟูอารยธรรม
 # Features
