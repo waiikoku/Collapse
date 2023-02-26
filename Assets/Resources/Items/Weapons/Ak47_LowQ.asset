@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b9758436dcbb43a39dfc9c354b344, type: 3}
+  m_Name: Ak47_LowQ
+  m_EditorClassIdentifier: 
+  ItemID: 1002
+  ItemName: Ak47 Low
+  ItemIcon: {fileID: 21300000, guid: cd2bb966623fbbc43adabcc359ac773d, type: 3}
+  ItemDescription: A Low Quality Gun
+  Prefab: {fileID: 1897528091970128765, guid: d7bf46c66a2ef1848aba7901f4871f70, type: 3}
+  Stat:
+    MinDamage: 1
+    MaxDamage: 5
+    CriticalChance: 25
+    CriticalMultipier: 1
+  MaxAmmo: 15
+  StartMagazine: 999
+  MaxMagazine: 999
+  Firerate: 5
+  BulletSpeed: 280
+  ReloadTime: 2

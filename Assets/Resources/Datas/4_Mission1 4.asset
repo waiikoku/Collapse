@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f89c8c953a182c44681f41c52893b9eb, type: 3}
+  m_Name: 4_Mission1 4
+  m_EditorClassIdentifier: 
+  missionName: Research Lab
+  missionScene: Clean_Desert1
+  missionDescription: The town in the middle of desert mountain overthrow by the
+    mutants
+  missionObjectives:
+  - 1) Clear Guards
+  - 2) Find Capture Point
+  - 3) Control Point
+  - 4) Defense the area
+  missionPreview: {fileID: 21300000, guid: 9dbd1e9449779274298210349b5ccce3, type: 3}
+  missionMusicThemeID: 1
+  locked: 1

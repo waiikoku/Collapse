@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae6587867dd156e49b1a1e2034bad0c9, type: 3}
+  m_Name: Dagger
+  m_EditorClassIdentifier: 
+  ItemID: 1002
+  ItemName: Dagger
+  ItemIcon: {fileID: 0}
+  ItemDescription: A Dagger
+  Prefab: {fileID: 0}
+  Stat:
+    MinDamage: 10
+    MaxDamage: 40
+    CriticalChance: 1
+    CriticalMultipier: 1
+  Range: 1.5
+  ActionSpeed: 1
