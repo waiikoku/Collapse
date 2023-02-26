@@ -2,7 +2,7 @@
 ![Y3_Collapse-Banner](https://user-images.githubusercontent.com/48912221/221401008-a66e47fd-dc45-442d-a7a3-445631c3f829.png)
 # Unity Version 2021.3.11f1
 # About Project
-- โปรเจคปี3 เทอม1
+- โปรเจคปี3 เทอม1 (ปี2022)
 - วิชาGame Design and Production
 - สมาชิกทีม 6 คน
 
